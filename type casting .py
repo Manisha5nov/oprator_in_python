@@ -36,4 +36,3 @@ i=str(i)
 r=i+s
 print(r)
 print(type(r))
-
